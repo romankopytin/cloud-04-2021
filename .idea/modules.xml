@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-2021/client/client.iml" filepath="$PROJECT_DIR$/cloud-04-2021/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud.iml" filepath="$PROJECT_DIR$/.idea/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-2021/cloud-04-2021.iml" filepath="$PROJECT_DIR$/cloud-04-2021/cloud-04-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-2021/core/core.iml" filepath="$PROJECT_DIR$/cloud-04-2021/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-2021/server/server.iml" filepath="$PROJECT_DIR$/cloud-04-2021/server/server.iml" />
+    </modules>
+  </component>
+</project>
